@@ -1,2 +1,5 @@
-# AzureLab
-Azure Lab to demonstrate live attack on a Virtual Machine and tracking the IP addresses of attackers and identify and categorize  them in the regions ranging from most unsuccessful attempts to successful logins.
+# Azure Lab
+Azure Lab to simulate a live attack on a Virtual Machine and tracking the IP addresses of attackers.
+Also to use a premade csv file of geolocation IP addresses and compare the captured IPs with them.
+Then to use SQL commands in KQL mode for various purposes like to categorize them according to the regions, ranging from most unsuccessful attempts to successful logins.
+Also to use Mircosoft Sentinel to visualize these attack regions all over the wolrd map.
